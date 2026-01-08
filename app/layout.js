@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`} suppressHydrationWarning={true}>
         <div className="navbar">
-          <Link href="/" className="logo">Appleforum</Link>
+          <Link href="/" className="logo">NoticeBoard</Link>
           <Link href="/list">List</Link>
           <Link href="/write">Write</Link>
         </div>

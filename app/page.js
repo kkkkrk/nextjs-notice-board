@@ -7,7 +7,8 @@ export default async function Home() {
 
   return (
     <div>
-      <p>안녕</p>
+      <h4>main site</h4>
+      <p>hello</p>
     </div>
   );
 }
